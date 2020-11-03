@@ -2,98 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change afterPath="$PROJECT_DIR$/assets/docs/Konkursna-dokumentacija-za-gas-1.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Konkursna-dokumentacija-za-gas.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Obaveštenje-o-zaključenom-ugovoru-el.-energija-2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Obaveštenje-o-zaključenom-ugovoru-el.-energija-2020.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Obaveštenje-o-zaključenom-ugovoru-gas.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Odluka-o-dodeli-ugovora-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Odluka-o-dodeli-ugovora-el.-energija-2020.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Odluka-o-dodeli-ugovoraEng2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Plan-javnih-nabavki-za-2019.godinu-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Poziv-za-podnošenje-ponude-gas.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/Poziv-za-podnošenje-ponude-gas2019.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/konkursna-dokumentacija-el.-energija-2019.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/konkursna-dokumentacija-el.-energija-2020-4-5.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/poziv-za-podnošenje-ponude-el.-energija-2019.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/docs/poziv-za-podnošenje-ponude-el.-energija-2020-5-1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Biznis Inkubator Krusevac (1)-1.m4v" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/Picture1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/Seminar-„Razvojni-planovi-za-bolje-poslovanje“-u-Biznis-inkubator-centru-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/kako-unaprediti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/ARRRO-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/MinistarstvoFinansija.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/grad krusevac.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/inovacije.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/logo-krusevac.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/logo-ras-sr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/ministarstvo finansija.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/nislogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/nsz-logo-2014-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/ntplogo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/poljoprivredni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/privredna komora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/radomir-bojkovic-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/vhst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/FTP_3192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/FTP_3202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Martina Manojlovic direktorka Biznis inkubator centra u Krusevcu foto S.Babovic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Tim Resivoje sa direktorkom BIC 2 foto S.Babovic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Tim Resivoje sa direktorkom BIC foto S.Babovic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Zaposleni u prvoj start-ap firmi Resivoje na radnom mestu foto S.Babovic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/okrugli sto 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/okrugli sto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-08_12-29-20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-12_12-55-50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-16_19-59-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-16_20-42-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-16_20-42-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-22_17-19-37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-22_17-19-43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-22_17-19-54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slika-javna-nabavk-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/bilbord.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/coworking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/inkubacione.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/knjigovodstvo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/konferenciska sala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/postinkubacione.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/prekvalifikacije.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/prekvalifikacije.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/startup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/znak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javnenabavke/nabavke6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti/onlinepredavanje.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti/seminar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti/v-vow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/preload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/preload/GREY-GEAR-LOADING.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/preload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/particle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/particle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prekvalifikacije.html" beforeDir="false" afterPath="$PROJECT_DIR$/prekvalifikacije.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/bilbord.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/bilbord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/coworking.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/coworking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/inkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/inkubacione.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/knjigovodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/knjigovodstvo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/mediacentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/mediacentar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/postinkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/postinkubacione.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/startap.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/startap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,9 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -176,7 +92,8 @@
       <workItem from="1604181555300" duration="9575000" />
       <workItem from="1604196822254" duration="787000" />
       <workItem from="1604237668889" duration="7709000" />
-      <workItem from="1604352735197" duration="13010000" />
+      <workItem from="1604352735197" duration="13245000" />
+      <workItem from="1604405082391" duration="5238000" />
     </task>
     <servers />
   </component>

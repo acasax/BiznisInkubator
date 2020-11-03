@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #topbar .contact-info a {
   line-height: 1;
-  color: #4d4643;
+  color: white;
   transition: 0.3s;
 }
 
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #65534c;
+  color: rgba(34,99,231,1);;
 }
 
 .mobile-nav {
@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #2b2320;
+  color: rgba(34,99,231,1);;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
@@ -1714,6 +1714,7 @@ section {
 .contact .info-wrap {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
+  background: white;
 }
 
 .contact .info {
@@ -1935,6 +1936,10 @@ section {
   max-height: 400px;
   margin: -30px -30px 20px -30px;
   overflow: hidden;
+}
+
+.blog .entry .entry-img img{
+  width: 100% !important;
 }
 
 .blog .entry .entry-title {

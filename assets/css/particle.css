@@ -16,5 +16,17 @@
 
 #video2
 {
-    height:100%;
+    width: 100%;
+} /* This has been changed */
+
+#videoDiv1
+{
+    width:100%;
+    display:block;
+    position: relative;
+} /* This has been changed */
+
+#videoDiv1 img
+{
+    width: 100%;
 } /* This has been changed */

@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/virtual-office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/particle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/particle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/about.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/FTP_3192.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/FTP_3192.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/FTP_3202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/FTP_3202.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Martina Manojlovic direktorka Biznis inkubator centra u Krusevcu foto S.Babovic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Martina Manojlovic direktorka Biznis inkubator centra u Krusevcu foto S.Babovic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Tim Resivoje sa direktorkom BIC foto S.Babovic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Tim Resivoje sa direktorkom BIC foto S.Babovic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Zaposleni u prvoj start-ap firmi Resivoje na radnom mestu foto S.Babovic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/KRUSEVAC Zaposleni u prvoj start-ap firmi Resivoje na radnom mestu foto S.Babovic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/okrugli sto 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/okrugli sto 1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-12_12-55-50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-12_12-55-50.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-16_19-59-31.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallerija/viber_image_2020-10-16_19-59-31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/services.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/services.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/slika 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slika 1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/FTP_3103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/FTP_3103.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/FTP_3107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/FTP_3107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/FTP_3111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/FTP_3111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/FTP_3117.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/FTP_3117.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +92,7 @@
       <workItem from="1604352735197" duration="13245000" />
       <workItem from="1604405082391" duration="7147000" />
       <workItem from="1604514974677" duration="9000" />
-      <workItem from="1604573202647" duration="12079000" />
+      <workItem from="1604573202647" duration="12716000" />
     </task>
     <servers />
   </component>

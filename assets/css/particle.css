@@ -10,6 +10,7 @@
 #videoDiv2
 {
     width:100%;
+    height: 100vh;
     display:block;
     position: relative;
 } /* This has been changed */
@@ -17,8 +18,14 @@
 #video2
 {
     width: 100%;
-
 } /* This has been changed */
+
+@media (max-width: 992px) {
+    #video2 {
+        width: auto;
+        height: 100vh;
+    }
+}
 
 #videoDiv1
 {

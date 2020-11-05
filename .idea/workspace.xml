@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix" />
+    <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prekvalifikacije.html" beforeDir="false" afterPath="$PROJECT_DIR$/prekvalifikacije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/bilbord.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/bilbord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/coworking.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/coworking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/knjigovodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/knjigovodstvo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/mediacentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/mediacentar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/postinkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/postinkubacione.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/startap.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/startap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +101,7 @@
       <workItem from="1604514974677" duration="9000" />
       <workItem from="1604573202647" duration="17851000" />
       <workItem from="1604597962578" duration="3295000" />
-      <workItem from="1604602230709" duration="2908000" />
+      <workItem from="1604602230709" duration="3725000" />
     </task>
     <servers />
   </component>

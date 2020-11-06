@@ -1373,7 +1373,7 @@ section {
   .team .member .member-img {
     position: relative;
     overflow: hidden;
-    max-height: 450px;
+    max-height: 400px;
   }
 }
 

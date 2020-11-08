@@ -188,4 +188,80 @@
     aos_init();
   });
 
+  function isEmail(email) {
+    var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    return regex.test(email);
+  }
+
+  $('#contact-section button:first-child').click(() => {
+    const lang = $(".site-lang").val();
+    let url = lang == 'sr' ? 'assets/php/send_mail.php' : '../send_mail.php';
+    const fname = $("#fname").val().trim(),
+        subject = $("#subject").val().trim(),
+        email = $("#email").val().trim(),
+        message = $("#message").val().trim(),
+        recaptcha_response = $("#recaptchaResponse").val();
+    if (fname == '' || subject == '' || email == '' || message == '') {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Niste popunili sva polja. Molimo pokušajte ponovo.");
+      } else if (lang == 'en') {
+        $('.modal-body').text("You need to fill out all the fields. Please try again.");
+      }
+      return;
+    }
+    if (!isEmail(email)) {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Nepravilna email adresa. Molimo pokušajte ponovo.");
+      } else {
+        $('.modal-body').text("Email address you have entered is not valid. Please try again.");
+      }
+      return;
+    }
+    const data = {
+      fname: fname,
+      subject: subject,
+      email: email,
+      message: message,
+      recaptcha_response: recaptcha_response
+    };
+    $("#myModal").fadeIn(1000);
+    $.ajax({
+      type: "POST",
+      dataType: 'text',
+      url: url,
+      data: data,
+      success: (response) => {
+        $("#name").val('');
+        $("#subject").val('');
+        $("#email").val('');
+        $("#message").val('');
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Uspešno ste poslali poruku.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("You have successfully sent a message.");
+        }
+      },
+      error: (response) => {
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Došlo je do greške. Molimo pokušajte ponovo.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("An error has occurred. Please try again.");
+        }
+      }
+    })
+  });
+
+
 })(jQuery);
+
+/*grecaptcha.ready(() => {
+  grecaptcha.execute('6LdLjuAZAAAAAEj3rEvNWCOAWWtUKToCvfPABNpC')
+      .then((token) => {
+        recaptchaResponse = document.getElementById('recaptchaResponse');
+        recaptchaResponse.value = token;
+      });
+});*/

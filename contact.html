@@ -29,6 +29,8 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/particle.css" rel="stylesheet">
 
+
+
 </head>
 
 <body id="particles-js" >
@@ -147,12 +149,12 @@
 
         </div>
 
-        <div class="row mt-5 justify-content-center" data-aos="fade-up">
+        <div class="row mt-5 justify-content-center" data-aos="fade-up" id="contact-section">
           <div class="col-lg-10">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form method="post" role="form" class="php-email-form contact-form">
               <div class="form-row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Vaše ime" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="fname" placeholder="Vaše ime" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validate"></div>
                 </div>
                 <div class="col-md-6 form-group">
@@ -165,15 +167,14 @@
                 <div class="validate"></div>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Unesite poruku"></textarea>
+                <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Unesite poruku"></textarea>
+               <!-- <input type="hidden" name="recaptcha_response" id="recaptchaResponse"> -->
+                <div class="g-recaptcha" data-sitekey="6LdLjuAZAAAAAEj3rEvNWCOAWWtUKToCvfPABNpC"></div>
                 <div class="validate"></div>
               </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+              <div class="text-center">
+                <button value="sr" data-toggle="modal" data-target="#myModal" type="button" class="btn btn-primary btn-md site-lang">Pošalji Poruku</button>
               </div>
-              <div class="text-center"><button type="submit">Pošalji</button></div>
             </form>
           </div>
 
@@ -181,6 +182,23 @@
 
       </div>
     </section><!-- End Contact Section -->
+
+  <!-- Modal -->
+  <div class="modal" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <!-- Modal body -->
+        <div class="modal-body">
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">U redu</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
 
   </main><!-- End #main -->
 
@@ -208,7 +226,20 @@
 
 <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<script type="text/javascript">
+  var onloadCallback = function() {
+    alert("grecaptcha is ready!");
+  };
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+</script>
+
 <!-- Vendor JS Files -->
+<!--<script src="https://www.google.com/recaptcha/api.js?render=6LdLjuAZAAAAAEj3rEvNWCOAWWtUKToCvfPABNpC"></script>-->
 <script src="assets/vendor/jquery/jquery.min.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>

@@ -15,7 +15,7 @@ if (isset($_REQUEST['recaptcha_response'])) {
 
     // Take action based on the score returned:
     if ($recaptcha->score >= 0.5) {
-        if (isset($_REQUEST['fname']) && isset($_REQUEST['lname']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) {
+        if (isset($_REQUEST['name']) && isset($_REQUEST['subject']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) {
 
             $email_to = "info@resivoje.com";
             $email_subject = $_REQUEST['subject'];

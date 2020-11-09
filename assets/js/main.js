@@ -196,12 +196,12 @@
   $('#contact-section button:first-child').click(() => {
     const lang = $(".site-lang").val();
     let url = lang == 'sr' ? 'assets/php/send_mail.php' : '../send_mail.php';
-    const fname = $("#fname").val().trim(),
+    const name = $("#name").val().trim(),
         subject = $("#subject").val().trim(),
         email = $("#email").val().trim(),
         message = $("#message").val().trim(),
         recaptcha_response = $("#recaptchaResponse").val();
-    if (fname == '' || subject == '' || email == '' || message == '') {
+    if (name == '' || subject == '' || email == '' || message == '') {
       $("#myModal").fadeIn(1000);
       if (lang == 'sr') {
         $('.modal-body').text("Niste popunili sva polja. Molimo pokušajte ponovo.");
@@ -220,7 +220,7 @@
       return;
     }
     const data = {
-      fname: fname,
+      name: name,
       subject: subject,
       email: email,
       message: message,
@@ -258,10 +258,10 @@
 
 })(jQuery);
 
-/*grecaptcha.ready(() => {
-  grecaptcha.execute('6LdLjuAZAAAAAEj3rEvNWCOAWWtUKToCvfPABNpC')
+grecaptcha.ready(() => {
+  grecaptcha.execute('6LelkeAZAAAAALKc-5xPMqzwp9xNejC2D-7-HsP-')
       .then((token) => {
         recaptchaResponse = document.getElementById('recaptchaResponse');
         recaptchaResponse.value = token;
       });
-});*/
+});

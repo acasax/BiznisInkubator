@@ -5,11 +5,12 @@ if (isset($_REQUEST['recaptcha_response'])) {
 
     // Build POST request:
     $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-    $recaptcha_secret = '6LdLjuAZAAAAADNlnoZ6U4Cq77P05NgCoasEsknD';
+    $recaptcha_secret = '6LelkeAZAAAAAMfBPXc3fsjrJ46GD5FRCthmFhcI';
     $recaptcha_response = $_POST['recaptcha_response'];
 
     // Make and decode POST request:
     $recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
+    echo $recaptcha;
     $recaptcha = json_decode($recaptcha);
 
 
@@ -17,7 +18,7 @@ if (isset($_REQUEST['recaptcha_response'])) {
     if ($recaptcha->score >= 0.5) {
         if (isset($_REQUEST['name']) && isset($_REQUEST['subject']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) {
 
-            $email_to = "info@resivoje.com";
+            $email_to = "ivann@biznisinkubator.rs";
             $email_subject = $_REQUEST['subject'];
 
 
@@ -45,6 +46,9 @@ if (isset($_REQUEST['recaptcha_response'])) {
             } else {
                 echo 'error with sending mail';
             };
+        }else
+        {
+            echo "nije sve setovanoi";
         }
     } else {
         echo "error with recaptcha";

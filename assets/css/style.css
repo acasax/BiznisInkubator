@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   padding: 10px 0;
   background: #fff;
-  min-width: 380px;
+  min-width: 360px;
 }
 
 #header.header-scrolled {
@@ -1359,12 +1359,14 @@ section {
   border-radius: 5px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  width: 75% !important;
 }
 
 .team .member .member-img {
   position: relative;
   overflow: hidden;
   max-height: 310px;
+
 }
 
 
@@ -1373,6 +1375,12 @@ section {
     position: relative;
     overflow: hidden;
     max-height: 350px;
+  }
+}
+
+@media (max-width: 992px) {
+  .team .member {
+    width: 50% !important;
   }
 }
 
@@ -2512,6 +2520,7 @@ section {
   color: #b4aca8;
   font-size: 14px;
   background: linear-gradient(90deg, rgba(188,84,183,1) 0%, rgba(142,12,140,1) 10%, rgba(34,99,231,1) 100%);
+  min-width: 380px !important;
 }
 
 #footer .footer-top {

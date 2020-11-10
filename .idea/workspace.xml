@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
+      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/beograd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/delegacijabeograd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/martinabeograd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallerija/sastanakbeograd.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke6.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prekvalifikacije.html" beforeDir="false" afterPath="$PROJECT_DIR$/prekvalifikacije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/onlinepredavanje.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/onlinepredavanje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/v-vow.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/v-vow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +101,7 @@
       <workItem from="1604841602965" duration="7965000" />
       <workItem from="1604929771419" duration="2994000" />
       <workItem from="1604938780573" duration="308000" />
-      <workItem from="1605018726741" duration="3211000" />
+      <workItem from="1605018726741" duration="4008000" />
     </task>
     <servers />
   </component>

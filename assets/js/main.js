@@ -255,6 +255,68 @@
     })
   });
 
+  $('#sendBtn').click(() => {
+    const lang = $(".site-lang").val();
+    let url = lang == 'sr' ? 'assets/php/reservate.php' : '../reservate.php';
+    const name = $("#name").val().trim(),
+        curs = $("#curs").val().trim(),
+        email = $("#email").val().trim(),
+        message = $("#message").val().trim(),
+        recaptcha_response = $("#recaptchaResponse").val();
+    if (name == '' || curs == '' || email == '' || message == '') {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Niste popunili sva polja. Molimo pokušajte ponovo.");
+      } else if (lang == 'en') {
+        $('.modal-body').text("You need to fill out all the fields. Please try again.");
+      }
+      return;
+    }
+    if (!isEmail(email)) {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Nepravilna email adresa. Molimo pokušajte ponovo.");
+      } else {
+        $('.modal-body').text("Email address you have entered is not valid. Please try again.");
+      }
+      return;
+    }
+    const data = {
+      name: name,
+      curs: curs,
+      email: email,
+      message: message,
+      recaptcha_response: recaptcha_response
+    };
+    $("#myModal").fadeIn(1000);
+    $.ajax({
+      type: "POST",
+      dataType: 'text',
+      url: url,
+      data: data,
+      success: (response) => {
+        $("#name").val('');
+        $("#curs").val('');
+        $("#email").val('');
+        $("#message").val('');
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Uspešno ste poslali poruku.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("You have successfully sent a message.");
+        }
+      },
+      error: (response) => {
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Došlo je do greške. Molimo pokušajte ponovo.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("An error has occurred. Please try again.");
+        }
+      }
+    })
+  });
+
 
 })(jQuery);
 

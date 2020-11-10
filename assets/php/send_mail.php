@@ -33,9 +33,9 @@ if (isset($_REQUEST['recaptcha_response'])) {
                 return str_replace($bad, "", $string);
             }
 
-            $email_message = "Name: " . clean_string($name) . "\n";
-            $email_message .= "Email: " . clean_string($email) . "\n";
-            $email_message .= "Message: " . clean_string($message) . "\n";
+            $email_message = "Ime: " . clean_string($name) . "\n";
+            $email_message .= "E-mail: " . clean_string($email) . "\n";
+            $email_message .= "Poruka: " . clean_string($message) . "\n";
 
 
             $headers = 'From: ' . $email . "\r\n" .

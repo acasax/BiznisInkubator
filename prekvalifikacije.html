@@ -327,6 +327,67 @@
                                 </div>
                             </div><!-- End Pricing Section -->
 
+                            <h2 data-aos="fade-up" class="text-center">
+                                Rezerviši
+                            </h2>
+                            <div id="contact" class="contact mb-4">
+                                <div class="container">
+
+                                    <div class="row mt-5 justify-content-center" data-aos="fade-up" >
+                                        <div class="col-lg-10">
+                                            <form method="post" role="form" class="php-email-form contact-form">
+                                                <div class="form-row">
+                                                    <div class="col-md-6 form-group">
+                                                        <input type="text" name="name" class="form-control" id="name" placeholder="Vaše ime" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                                        <div class="validate"></div>
+                                                    </div>
+                                                    <div class="col-md-6 form-group">
+                                                        <input type="email" class="form-control" name="email" id="email" placeholder="Vaš e-mail" data-rule="email" data-msg="Please enter a valid email" />
+                                                        <div class="validate"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                        <label for="curs">Izaberi kurs:</label>
+                                                        <select class="form-control" id="curs">
+                                                            <option value="kuvar">Kuvar</option>
+                                                            <option value="konobar">Konobar</option>
+                                                            <option value="sminker">Šminker</option>
+                                                            <option value="maser">Maser</option>
+                                                            <option value="Negovatelj">Negovatelj</option>
+                                                        </select>
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Unesite poruku"></textarea>
+                                                    <!-- <input type="hidden" name="recaptcha_response" id="recaptchaResponse"> -->
+                                                    <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+                                                </div>
+                                                <div class="text-center">
+                                                    <button value="sr" data-toggle="modal" data-target="#myModal" type="button" class="btn btn-md site-lang" id="sendBtn">Pošalji Poruku</button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div><!-- End Contact Section -->
+
+                            <!-- Modal -->
+                            <div class="modal" id="myModal">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <!-- Modal body -->
+                                        <div class="modal-body">
+                                        </div>
+
+                                        <!-- Modal footer -->
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal">U redu</button>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
 
                         <div class="entry-footer clearfix">
@@ -369,6 +430,8 @@
 </footer><!-- End Footer -->
 
 <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LelkeAZAAAAALKc-5xPMqzwp9xNejC2D-7-HsP-"></script>
 
 <script src="assets/vendor/jquery/jquery.min.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

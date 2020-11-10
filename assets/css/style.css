@@ -21,6 +21,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Muli", sans-serif;
 }
 
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #fff !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -1363,10 +1370,8 @@ section {
 }
 
 .team .member .member-img {
-  position: relative;
   overflow: hidden;
-  max-height: 310px;
-
+  height: 245px;
 }
 
 
@@ -1420,20 +1425,20 @@ section {
 .team .member .member-info h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 15px;
   color: #2b2320;
 }
 
 .team .member .member-info span {
   display: block;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 400;
   color: #b4aca8;
 }
 
 .team .member .member-info p {
   font-style: italic;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 26px;
   color: #847872;
 }
@@ -2070,7 +2075,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #fd541e;
+  background: #8c0d8c;
 }
 
 .blog .entry .entry-content h3 {

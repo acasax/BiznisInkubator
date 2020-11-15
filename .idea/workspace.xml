@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/gradonačelnicaNiš.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/blog/nišgradonačelnica.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flattern.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Flattern.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
@@ -31,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/vesti.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesti/beograd.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/beograd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesti/nis.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesti/onlinepredavanje.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/onlinepredavanje.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesti/v-vow.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/v-vow.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
@@ -131,7 +129,7 @@
       <workItem from="1605043397170" duration="5823000" />
       <workItem from="1605181626044" duration="644000" />
       <workItem from="1605184898721" duration="975000" />
-      <workItem from="1605462038824" duration="2746000" />
+      <workItem from="1605462038824" duration="5455000" />
     </task>
     <servers />
   </component>

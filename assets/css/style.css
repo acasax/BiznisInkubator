@@ -1284,6 +1284,12 @@ section {
   min-height: 400px;
 }
 
+.about-us .image2 {
+  background: url("../img/doktori/FTP_3174.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 540px;
+}
+
 @media (max-width: 991px) {
   .about-us .image {
     text-align: center;
@@ -1296,6 +1302,22 @@ section {
 @media (max-width: 667px) {
   .about-us .image img {
     max-width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .about-us .image2 {
+    text-align: center;
+    min-height: 200px;
+  }
+  .about-us .image2 img {
+    min-height: 200px;
+  }
+}
+
+@media (max-width: 667px) {
+  .about-us .image2 img {
+    min-height: 200px;
   }
 }
 

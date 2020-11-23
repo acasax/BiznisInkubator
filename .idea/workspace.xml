@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change afterPath="$PROJECT_DIR$/Flattern.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +104,8 @@
       <workItem from="1605462038824" duration="6565000" />
       <workItem from="1605541601075" duration="654000" />
       <workItem from="1605555589889" duration="6474000" />
-      <workItem from="1605697909096" duration="43000" />
+      <workItem from="1605697909096" duration="155000" />
+      <workItem from="1606164818845" duration="694000" />
     </task>
     <servers />
   </component>

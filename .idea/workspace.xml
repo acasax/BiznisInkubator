@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change afterPath="$PROJECT_DIR$/assets/img/usluge/startup.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flattern.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flattern.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/usluge/startup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/mediacentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/mediacentar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/startap.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/startap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/usluge/bilbord.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/usluge/bilbord.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/bilbord.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/bilbord.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +113,8 @@
       <workItem from="1606219160263" duration="1198000" />
       <workItem from="1606297926336" duration="1487000" />
       <workItem from="1606415791146" duration="4000" />
-      <workItem from="1606842474208" duration="2814000" />
+      <workItem from="1606842474208" duration="4130000" />
+      <workItem from="1606915203655" duration="646000" />
     </task>
     <servers />
   </component>

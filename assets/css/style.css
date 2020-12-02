@@ -2028,6 +2028,12 @@ section {
   overflow: hidden;
 }
 
+.blog .entry .entry-img1 {
+  max-height: 800px;
+  margin: -30px -30px 20px -30px;
+  overflow: hidden;
+}
+
 .blog .entry .entry-img img{
   width: 100% !important;
 }

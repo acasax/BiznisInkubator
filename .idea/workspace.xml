@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="fixup! fix">
-      <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
-    </list>
+    <list default="true" id="ea1232eb-4349-4a49-8431-058fb88fb3dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,39 +13,11 @@
       <executable />
     </execution>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package.json" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1jCZDCgShPnssqtSsEOtAFRd5P8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1m4JOY6ZzNoOeG0VHFOBF0MFrLi" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\BiznisInkubator\Flattern\assets\js" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\BiznisInkubator\Flattern" />
-      <recent name="C:\xampp\htdocs\BiznisInkubator\Flattern\assets\js" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,73 +36,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f46ecd9-3f6e-404f-8b12-b01a4a6e4503" name="Default Changelist" comment="" />
-      <created>1603309911835</created>
+      <changelist id="ea1232eb-4349-4a49-8431-058fb88fb3dc" name="Default Changelist" comment="" />
+      <created>1608746897737</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603309911835</updated>
-      <workItem from="1603309915191" duration="12729000" />
-      <workItem from="1603369868628" duration="11000" />
-      <workItem from="1603446914370" duration="856000" />
-      <workItem from="1603468519935" duration="3066000" />
-      <workItem from="1603636235948" duration="8662000" />
-      <workItem from="1603711344389" duration="16000" />
-      <workItem from="1603824682800" duration="600000" />
-      <workItem from="1604094525683" duration="669000" />
-      <workItem from="1604096807155" duration="4748000" />
-      <workItem from="1604102787541" duration="686000" />
-      <workItem from="1604151108780" duration="608000" />
-      <workItem from="1604181555300" duration="9575000" />
-      <workItem from="1604196822254" duration="787000" />
-      <workItem from="1604237668889" duration="7709000" />
-      <workItem from="1604352735197" duration="13245000" />
-      <workItem from="1604405082391" duration="7147000" />
-      <workItem from="1604514974677" duration="9000" />
-      <workItem from="1604573202647" duration="17851000" />
-      <workItem from="1604597962578" duration="3295000" />
-      <workItem from="1604602230709" duration="4348000" />
-      <workItem from="1604667510744" duration="2202000" />
-      <workItem from="1604756971053" duration="632000" />
-      <workItem from="1604841602965" duration="7965000" />
-      <workItem from="1604929771419" duration="2994000" />
-      <workItem from="1604938780573" duration="308000" />
-      <workItem from="1605018726741" duration="5273000" />
-      <workItem from="1605043397170" duration="5823000" />
-      <workItem from="1605181626044" duration="644000" />
-      <workItem from="1605184898721" duration="975000" />
-      <workItem from="1605462038824" duration="6565000" />
-      <workItem from="1605541601075" duration="654000" />
-      <workItem from="1605555589889" duration="6474000" />
-      <workItem from="1605697909096" duration="155000" />
-      <workItem from="1606164818845" duration="694000" />
-      <workItem from="1606165884877" duration="36000" />
-      <workItem from="1606219160263" duration="1198000" />
-      <workItem from="1606297926336" duration="1487000" />
-      <workItem from="1606415791146" duration="4000" />
-      <workItem from="1606842474208" duration="4130000" />
-      <workItem from="1606915203655" duration="1911000" />
-      <workItem from="1607175039333" duration="2841000" />
-      <workItem from="1607251727233" duration="2576000" />
+      <updated>1608746897737</updated>
+      <workItem from="1608746901375" duration="1831000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

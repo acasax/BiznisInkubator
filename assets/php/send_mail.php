@@ -18,7 +18,7 @@ if (isset($_REQUEST['recaptcha_response'])) {
     if ($recaptcha->score >= 0.5) {
         if (isset($_REQUEST['name']) && isset($_REQUEST['subject']) && isset($_REQUEST['email']) && isset($_REQUEST['message'])) {
 
-            $email_to = "ivann@biznisinkubator.rs";
+            $email_to = "martinam@biznisinkubator.rs";
             $email_subject = $_REQUEST['subject'];
 
 

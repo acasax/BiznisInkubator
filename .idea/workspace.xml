@@ -2,11 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea1232eb-4349-4a49-8431-058fb88fb3dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vesti/prviSastankaStanara.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vesti/webinar1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesti/finansiskapismenost.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIC.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke6.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prekvalifikacije.html" beforeDir="false" afterPath="$PROJECT_DIR$/prekvalifikacije.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/bilbord.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/bilbord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/coworking.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/coworking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/inkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/inkubacione.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/knjigovodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/knjigovodstvo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/mediacentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/mediacentar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/postinkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/postinkubacione.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge/startap.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/startap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesti.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/beograd.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/beograd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/dentalniturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/dentalniturizam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/nis.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/novagodina.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/novagodina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/onlinepredavanje.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/onlinepredavanje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/pametnabasta.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/pametnabasta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/privredniforummladih.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/privredniforummladih.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/prviSastankaStanara.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/prviSastankaStanara.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/raising_startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/raising_startup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/v-vow.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/v-vow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesti/webinar1.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/webinar1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +102,10 @@
       <workItem from="1611309787272" duration="11000" />
       <workItem from="1611349903363" duration="617000" />
       <workItem from="1611416698632" duration="2115000" />
-      <workItem from="1611495760569" duration="1638000" />
+      <workItem from="1611495760569" duration="2317000" />
+      <workItem from="1611569505473" duration="602000" />
+      <workItem from="1611585853452" duration="561000" />
+      <workItem from="1611651925468" duration="1015000" />
     </task>
     <servers />
   </component>

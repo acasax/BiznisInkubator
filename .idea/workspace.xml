@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea1232eb-4349-4a49-8431-058fb88fb3dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/php/reservate2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduling.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BIC.zip" beforeDir="false" afterPath="$PROJECT_DIR$/BIC.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +70,8 @@
       <workItem from="1611569505473" duration="602000" />
       <workItem from="1611585853452" duration="561000" />
       <workItem from="1611651925468" duration="1637000" />
-      <workItem from="1611747474665" duration="5205000" />
+      <workItem from="1611747474665" duration="5387000" />
+      <workItem from="1611755302756" duration="234000" />
     </task>
     <servers />
   </component>

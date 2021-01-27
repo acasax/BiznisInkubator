@@ -317,6 +317,71 @@
     })
   });
 
+  $('#sendBtn2').click(() => {
+    const lang = $(".site-lang").val();
+    let url = lang == 'sr' ? 'assets/php/reservate2.php' : '../reservate2.php';
+    const name = $("#name").val().trim(),
+        adresa = $("#adresa").val().trim(),
+        email = $("#email").val().trim(),
+        phone = $("#phone").val().trim(),
+        man = $("#man").val().trim(),
+        recaptcha_response = $("#recaptchaResponse").val();
+    if (name == '' || adresa == '' || email == '' || phone == '' || man == '') {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Niste popunili sva polja. Molimo pokušajte ponovo.");
+      } else if (lang == 'en') {
+        $('.modal-body').text("You need to fill out all the fields. Please try again.");
+      }
+      return;
+    }
+    if (!isEmail(email)) {
+      $("#myModal").fadeIn(1000);
+      if (lang == 'sr') {
+        $('.modal-body').text("Nepravilna email adresa. Molimo pokušajte ponovo.");
+      } else {
+        $('.modal-body').text("Email address you have entered is not valid. Please try again.");
+      }
+      return;
+    }
+    const data = {
+      name: name,
+      adresa: adresa,
+      email: email,
+      phone: phone,
+      man: man,
+      recaptcha_response: recaptcha_response
+    };
+    $("#myModal").fadeIn(1000);
+    $.ajax({
+      type: "POST",
+      dataType: 'text',
+      url: url,
+      data: data,
+      success: (response) => {
+        $("#name").val('');
+        $("#curs").val('');
+        $("#email").val('');
+        $("#message").val('');
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Uspešno ste poslali poruku.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("You have successfully sent a message.");
+        }
+      },
+      error: (response) => {
+        $("#myModal").fadeIn(1000);
+        if (lang == 'sr') {
+          $('.modal-body').text("Došlo je do greške. Molimo pokušajte ponovo.");
+        } else if (lang == 'en') {
+          $('.modal-body').text("An error has occurred. Please try again.");
+        }
+      }
+    })
+  });
+
+
 
 })(jQuery);
 

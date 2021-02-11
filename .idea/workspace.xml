@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea1232eb-4349-4a49-8431-058fb88fb3dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BIC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BIC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/particle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/particle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/preload.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/preload.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/preload.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/preload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/reservate.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/reservate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/reservate2.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/reservate2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/send_mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/send_mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/boxicons/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/boxicons/css/transformations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/transformations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/changelog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dentalturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/dentalturizam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javnenabavke/nabavke6.html" beforeDir="false" afterPath="$PROJECT_DIR$/javnenabavke/nabavke6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prekvalifikacije.html" beforeDir="false" afterPath="$PROJECT_DIR$/prekvalifikacije.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheduling.html" beforeDir="false" afterPath="$PROJECT_DIR$/scheduling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/bilbord.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/bilbord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/coworking.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/coworking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/inkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/inkubacione.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/knjigovodstvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/knjigovodstvo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/mediacentar.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/mediacentar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/postinkubacione.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/postinkubacione.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge/startap.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge/startap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/beograd.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/beograd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/dentalniturizam.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/dentalniturizam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/finansiskapismenost.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/finansiskapismenost.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/finansiskapismenost2.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/finansiskapismenost2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/nis.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/nisGradonačelnica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/novagodina.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/novagodina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/onlinepredavanje.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/onlinepredavanje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/pametnabasta.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/pametnabasta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/privredniforummladih.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/privredniforummladih.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/prviSastankaStanara.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/prviSastankaStanara.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/raising_startup.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/raising_startup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/v-vow.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/v-vow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesti/webinar1.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesti/webinar1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtuelnakancelarija.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtuelnakancelarija.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +15,19 @@
       <executable />
     </execution>
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="255" column="73" selection-start-line="255" selection-start-column="73" selection-end-line="255" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -83,13 +38,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-935" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1m4JOY6ZzNoOeG0VHFOBF0MFrLi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BIC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BIC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,9 +114,40 @@
       <workItem from="1612275335977" duration="988000" />
       <workItem from="1612369329985" duration="983000" />
       <workItem from="1612439877521" duration="1999000" />
-      <workItem from="1612541612367" duration="88000" />
+      <workItem from="1612541612367" duration="1576000" />
+      <workItem from="1612560902096" duration="25000" />
+      <workItem from="1613052096241" duration="318000" />
+      <workItem from="1613052464088" duration="157000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="475000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-935" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08028617" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23382697" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -146,11 +158,40 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="255" column="73" selection-start-line="255" selection-start-column="73" selection-end-line="255" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

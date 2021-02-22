@@ -16,16 +16,15 @@ if (isset($_REQUEST['recaptcha_response'])) {
 
     // Take action based on the score returned:
     if ($recaptcha->score >= 0.5) {
-        if (isset($_REQUEST['name']) && isset($_REQUEST['adresa']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['man'])) {
+        if (isset($_REQUEST['name']) && isset($_REQUEST['adresa']) && isset($_REQUEST['email']) && isset($_REQUEST['phone'])) {
 
             $email_to = "martinam@biznisinkubator.rs";
-            $email_subject = "Rezervisanje mesta za kurs (Sajt)";
+            $email_subject = "Rezervisanje mesta za obuku (Sajt)";
 
             $name = $_REQUEST['name'];
             $email = $_REQUEST['email'];
             $adresa = $_REQUEST['adresa'];
             $phone = $_REQUEST['phone'];
-            $man = $_REQUEST['man'];
 
 
             function clean_string($string)
@@ -38,7 +37,6 @@ if (isset($_REQUEST['recaptcha_response'])) {
             $email_message .= "Email: " . clean_string($email) . "\n";
             $email_message .= "Adresa: " . clean_string($adresa) . "\n";
             $email_message .= "Telefon: " . clean_string($phone) . "\n";
-            $email_message .= "Ko Vas je pozvao na krus?: " . clean_string($man) . "\n";
 
 
             $headers = 'From: ' . $email . "\r\n" .

@@ -324,9 +324,8 @@
         adresa = $("#adresa").val().trim(),
         email = $("#email").val().trim(),
         phone = $("#phone").val().trim(),
-        man = $("#man").val().trim(),
         recaptcha_response = $("#recaptchaResponse").val();
-    if (name == '' || adresa == '' || email == '' || phone == '' || man == '') {
+    if (name == '' || adresa == '' || email == '' || phone == '' ) {
       $("#myModal").fadeIn(1000);
       if (lang == 'sr') {
         $('.modal-body').text("Niste popunili sva polja. Molimo pokušajte ponovo.");

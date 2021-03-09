@@ -348,7 +348,6 @@
       adresa: adresa,
       email: email,
       phone: phone,
-      man: man,
       recaptcha_response: recaptcha_response
     };
     $("#myModal").fadeIn(1000);

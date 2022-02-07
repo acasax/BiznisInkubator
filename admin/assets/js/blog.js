@@ -10,7 +10,7 @@ $(document).ready(function() {
     });
 
     let dataTable = $('#blog_data').DataTable({
-        "processing":true,
+        "processing": true,
         "serverSide": true,
         "autoWidth": false,
         "order": [],
@@ -22,7 +22,7 @@ $(document).ready(function() {
             "targets": [0, 3, 4],
             "orderable": false,
         }, ],
-        "lengthMenu": [ 5 ],
+        "lengthMenu": [5],
         "language": {
             "lengthMenu": "Prikazi 5 vesti po strani",
             "zeroRecords": "Nema unosa",
@@ -141,11 +141,13 @@ $(document).ready(function() {
                 $('#txt_title').val(data.title);
                 $('#txt_text').val(data.text);
                 $('.custom-file-label').text(data.image_name);
-                $('#image').val(data.image_name);
+                //$('#image').val(data.image_name);
                 $('.modal-title').text("Change");
                 $('#id').val(blog_id);
                 $('#action').val("Promeni");
                 $('#operation').val("Promeni");
+                $('#action').html("Promeni");
+                $('#operation').html("Promeni");
             }
         })
     });

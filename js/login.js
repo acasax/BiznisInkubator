@@ -1,8 +1,8 @@
-$(document).ready(function () {
+$(document).ready(function() {
     const $login_form = $('#login_form');
     let validator = void(0);
 
-    if ($login_form.length){
+    if ($login_form.length) {
         validator = $login_form.validate({
             rules: {
                 reg_email: {
@@ -15,11 +15,11 @@ $(document).ready(function () {
             },
             messages: {
                 reg_email: {
-                    required: "Insert email",
-                    email: "E-mail is not valid."
+                    required: "Unesite email",
+                    email: "E-mail nije validan."
                 },
                 reg_password: {
-                    required: "Insert password"
+                    required: "Unesite sifru"
                 },
             },
             submitHandler: function submitHandler(form) {
@@ -27,11 +27,10 @@ $(document).ready(function () {
                 $.ajax({
                     url: "admin/php_assets/register_function/login_function.php",
                     method: 'POST',
-                    data:new FormData(form),
-                    contentType:false,
-                    processData:false,
-                    success:function(data)
-                    {
+                    data: new FormData(form),
+                    contentType: false,
+                    processData: false,
+                    success: function(data) {
                         let objResp = JSON.parse(data);
                         let str = objResp.type;
 
@@ -59,7 +58,7 @@ $(document).ready(function () {
                                 confirmButtonColor: "#DD6B55",
                                 confirmButtonText: "OK",
                                 closeOnConfirm: false
-                            }, function (isConfirm) {
+                            }, function(isConfirm) {
                                 if (!isConfirm) return;
                                 $('#login_form')[0].reset();
                                 window.location.replace('admin/admin_blog.php')

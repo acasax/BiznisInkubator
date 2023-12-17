@@ -111,32 +111,137 @@
 
                 <div class="row">
 
-                    <div class="col-lg-12 entries">
-                        <?php
-                        $query = "SELECT * FROM `blog`";
-                        $stmt = $db->prepare($query);
-                        $stmt->execute();
+                 <article class="entry" data-aos="fade-up">
 
-                        $result = $stmt->fetchAll();
-                        $data = array();
-                        foreach ($result as $row) {
-                            $img = "admin/php_assets/blog_functions/image/" . $row["image_name"];
-                            echo '<article class="entry" data-aos="fade-up">
-                            <div class="entry-img">
-                                <img src="' . $img . '" alt="" class="img-fluid">
-                            </div>
+                     <video autoplay="" muted="" playsinline="" width="100%">
+                        <source src="../img/vesti/Video%20(2).MP4" type="video/mp4">
+                     </video>
+
+                     <h2 class="entry-title">
+                         <a href="vesti/srbijZemljaNauke.html">Srbija zemlja nauke, zemlja inovacija</a>
+                     </h2>
+
+                     <div class="entry-meta">
+                         <ul>
+                             <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="">RešivoJe</a></li>
+                             <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href=""><time datetime="2021-12-17">Dec 17, 2023</time></a></li>
+                         </ul>
+                     </div>
+
+                     <div class="entry-content">
+                         <div class="read-more">
+                             <a href="vesti/srbijZemljaNauke.html">Više</a>
+                         </div>
+                     </div>
+
+                 </article>
+
+                 <article class="entry" data-aos="fade-up">
+
+
+                     <div class="entry-img" style="max-height: 700px;">
+                         <img src="img/vesti/Mladi%20u%20akciji.jpg" alt="" class="img-fluid">
+                     </div>
+
+                     <h2 class="entry-title">
+                         <a href="vesti/mladiUakciji.html">Mladi u akciji</a>
+                     </h2>
+
+                     <div class="entry-meta">
+                         <ul>
+                             <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="">RešivoJe</a></li>
+                             <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href=""><time datetime="2021-12-17">Dec 17, 2023</time></a></li>
+                         </ul>
+                     </div>
+
+                     <div class="entry-content">
+                         <div class="read-more">
+                             <a href="vesti/mladiUakciji.html">Više</a>
+                         </div>
+                     </div>
+
+                 </article>
+
+
+                 <article class="entry" data-aos="fade-up">
+
+
+                     <div class="entry-img" style="max-height: 700px;">
+                         <img src="img/vesti/RISC%20vizual.png" alt="" class="img-fluid">
+                     </div>
+
+                     <h2 class="entry-title">
+                         <a href="vesti/ntpNisStart.html">NTP Niš u saradnji sa Biznis Inkubatorom zvanično je započeo realizaciju programa za
+                             podizanje kapaciteta regionlanih inovacionih startap centara</a>
+                     </h2>
+
+                     <div class="entry-meta">
+                         <ul>
+                             <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="">RešivoJe</a></li>
+                             <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href=""><time datetime="2021-12-17">Dec 17, 2023</time></a></li>
+                         </ul>
+                     </div>
+
+                     <div class="entry-content">
+                         <div class="read-more">
+                             <a href="vesti/ntpNisStart.html">Više</a>
+                         </div>
+                     </div>
+
+                 </article>
+
+                        <article class="entry" data-aos="fade-up">
+
+
+                             <div class="entry-img" style="max-height: 700px;">
+                                <img src="img/blog/img_7600.png" alt="" class="img-fluid">
+                             </div>
+
                             <h2 class="entry-title">
-                                <a href="single-blog.php?var=' . $row["id"] . '">"' .$row["title"].'"</a>
+                                <a href="vesti/ebrd.html">Potpisivanje ugovora izmedju Vlade Republike Srbije i EBRD-om</a>
                             </h2>
+
+                            <div class="entry-meta">
+                                <ul>
+                                    <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="">RešivoJe</a></li>
+                                    <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href=""><time datetime="2021-12-17">Dec 17, 2023</time></a></li>
+                                </ul>
+                            </div>
+
                             <div class="entry-content">
                                 <div class="read-more">
-                                    <a href="single-blog.php?var=' . $row["id"] . '">Više</a>
+                                    <a href="vesti/ebrd.html">Više</a>
                                 </div>
                             </div>
-                        </article>';
-                        }
 
-                        ?>
+                        </article>
+
+//                     <div class="col-lg-12 entries">
+//                         <?php
+//                         $query = "SELECT * FROM `blog`";
+//                         $stmt = $db->prepare($query);
+//                         $stmt->execute();
+//
+//                         $result = $stmt->fetchAll();
+//                         $data = array();
+//                         foreach ($result as $row) {
+//                             $img = "admin/php_assets/blog_functions/image/" . $row["image_name"];
+//                             echo '<article class="entry" data-aos="fade-up">
+//                             <div class="entry-img">
+//                                 <img src="' . $img . '" alt="" class="img-fluid">
+//                             </div>
+//                             <h2 class="entry-title">
+//                                 <a href="single-blog.php?var=' . $row["id"] . '">"' .$row["title"].'"</a>
+//                             </h2>
+//                             <div class="entry-content">
+//                                 <div class="read-more">
+//                                     <a href="single-blog.php?var=' . $row["id"] . '">Više</a>
+//                                 </div>
+//                             </div>
+//                         </article>';
+//                         }
+//
+//                         ?>
 
                         <article class="entry" data-aos="fade-up">
 
